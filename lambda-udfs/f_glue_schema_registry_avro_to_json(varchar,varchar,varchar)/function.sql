@@ -10,7 +10,7 @@ Purpose:
         :param data: The Hex-encoded Avro binary data
     
     Returns:
-        The data encoded as JSON
+        The data encoded as JSON.
 
 2023-08-25: written by mmehrten
 */ 
